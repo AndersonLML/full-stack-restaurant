@@ -24,7 +24,6 @@
     "next-auth": "^4.22.3",
     "postcss": "8.4.26",
     "prisma": "^5.0.0",
-    "react": "18.2.0",
     "react-confetti-explosion": "^2.1.2",
     "react-countdown": "^2.3.5",
     "react-dom": "18.2.0",
